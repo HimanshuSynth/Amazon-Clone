@@ -18,7 +18,7 @@ To view or edit this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/amazon-clone.git
+   git clone https://github.com/HimanshuSynth/amazon-clone.git
    ```
 
 2. **Navigate to the Project Directory**:
